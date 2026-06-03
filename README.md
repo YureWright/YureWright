@@ -24,6 +24,7 @@
 - 🎓 人大在读 · 资源环境经济学 × 公共管理 **双主学位**
 - 📊 GPA **3.82/4.0**
 - 💻 熟练运用 AI 工具进行 **Vibe Coding**，让编程成为研究的"加速器"（并非熟练）
+- 个人作品集：[YureWright.github.io](https://yurewright.github.io/)
 
 ---
 
