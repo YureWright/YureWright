@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:B0E0E6,100:FFD700&height=220&section=header&text=Hi%20there,%20I'm%20YureWright%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=资源与环境经济学%20×%20公共管理（城市管理）%20×%20AI%20应用%20|%20数据驱动的社科研究者&descSize=16&descColor=ffffff&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:B0E0E6,100:FFD700&height=220&section=header&text=Hi%20there,%20I'm%20YureWright%20👋&fontSize=42&fontColor=00000&fontAlignY=35&desc=资源与环境经济学%20×%20公共管理（城市管理）%20×%20AI%20应用%20|%20数据驱动的社科研究者&descSize=16&descColor=000000&descAlignY=55"/>
 
 
 <!-- 联系方式徽章 -->
@@ -24,6 +24,7 @@
 - 🎓 人大在读 · 资源环境经济学 × 公共管理 **双主学位**
 - 📊 GPA **3.82/4.0**
 - 💻 熟练运用 AI 工具进行 **Vibe Coding**，让编程成为研究的"加速器"（并非熟练）
+- 个人作品集：[YureWright.github.io](https://yurewright.github.io/)
 
 ---
 
