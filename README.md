@@ -1,8 +1,11 @@
 <div align="center">
 
-<!-- 顶部装饰条 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:B0E0E6,100:FFD700&height=220&section=header&text=Hi%20there,%20I'm%20YureWright%20👋&fontSize=42&fontColor=00000&fontAlignY=35&desc=资源与环境经济学%20×%20公共管理（城市管理）%20×%20AI%20应用%20|%20数据驱动的社科研究者&descSize=16&descColor=000000&descAlignY=55"/>
+<!-- 首页背景：繁华都市 · 城市天际线游戏画面 -->
+<img width="100%" src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=city%20skyline%20game%20background%2C%20low%20poly%20pixel%20art%20style%2C%20dense%20skyscrapers%20at%20night%2C%20deep%20dark%20blue%20sky%2C%20towering%20buildings%20with%20glowing%20windows%2C%20neon%20city%20lights%2C%20cinematic%20depth%2C%20game%20screen%20background%2C%20wide%20banner&image_size=landscape_16_9"/>
 
+<h1>👋 Hi there, I'm YureWright</h1>
+
+**资源与环境经济学 × 公共管理（城市管理） × AI 应用 | 数据驱动的社科研究者**
 
 <!-- 联系方式徽章 -->
 <p align="center">
@@ -28,6 +31,20 @@
 
 ---
 
+<!-- 最新项目 -->
+## 🗑️ Latest Project — GarbageLazy
+
+> **垃圾分类识别系统**：调用视觉大模型（qwen-vl-max）识别图片中的垃圾，进行四分类（可回收物 / 有害垃圾 / 厨余垃圾 / 其他垃圾），并根据重量计算垃圾分类奖励。
+
+| 功能 | 说明 |
+|:---|:---|
+| 🖼️ 图片识别 | 摄像头拍照 / 上传图片（支持拖拽、多轮追加） |
+| ✏️ 结果编辑 | 修改分类、标注重量、删除、手动补录 |
+| 💰 价值计算 | 按每公斤价格自动计算垃圾分类总奖励 |
+
+🔗 [GitHub: YureWright/GarbageLazy](https://github.com/YureWright/GarbageLazy)
+
+---
 
 <!-- 当前关注 -->
 ## 🎯 Currently Exploring
